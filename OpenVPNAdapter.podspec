@@ -26,7 +26,7 @@ Pod::Spec.new do |s|
 
   # ――― Platform Specifics ――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
 
-  s.ios.deployment_target = "9.0"
+  s.ios.deployment_target = "15.6"
   s.osx.deployment_target = "10.11"
 
 
