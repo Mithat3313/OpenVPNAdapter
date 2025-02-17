@@ -9,7 +9,7 @@
 #import "OpenVPNReachability.h"
 #import "OpenVPNReachability+Internal.h"
 
-#include <openvpn/apple/reachable.hpp>
+#import <openvpn/apple/reachable.hpp>
 
 #import "OpenVPNReachabilityTracker.h"
 #import "OpenVPNReachabilityStatus.h"

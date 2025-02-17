@@ -7,7 +7,7 @@
 
 #import "OpenVPNPacket.h"
 
-#include <arpa/inet.h>
+#import <arpa/inet.h>
 
 @interface OpenVPNPacket () {
     NSData *_data;

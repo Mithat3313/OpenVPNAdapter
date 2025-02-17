@@ -8,8 +8,8 @@
 
 #import "OpenVPNPacketFlowBridge.h"
 
-#include <sys/socket.h>
-#include <arpa/inet.h>
+#import <sys/socket.h>
+#import <arpa/inet.h>
 
 #import "OpenVPNError.h"
 #import "OpenVPNPacket.h"

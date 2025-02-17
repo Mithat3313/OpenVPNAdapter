@@ -11,7 +11,7 @@
 
 #import <NetworkExtension/NetworkExtension.h>
 
-#include <openvpn/addr/ipv4.hpp>
+#import <openvpn/addr/ipv4.hpp>
 
 using ::IPv4::Addr;
 
